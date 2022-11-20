@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "412023194982",
+    "project_id": "entracer-1b4be",
+    "storage_bucket": "entracer-1b4be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412023194982:android:77412092ef757bf93674a7",
+        "android_client_info": {
+          "package_name": "com.capstone.entracer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412023194982-crn2cgvakkki2r2ggttkcs0vfb8kbejj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXdXEhTDFOBshOuJ-uV4KFqL6Dg6EjuF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412023194982-crn2cgvakkki2r2ggttkcs0vfb8kbejj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412023194982:android:2576e0e656f560513674a7",
+        "android_client_info": {
+          "package_name": "com.example.entracer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412023194982-crn2cgvakkki2r2ggttkcs0vfb8kbejj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXdXEhTDFOBshOuJ-uV4KFqL6Dg6EjuF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412023194982-crn2cgvakkki2r2ggttkcs0vfb8kbejj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
